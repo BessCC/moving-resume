@@ -1,0 +1,30 @@
+ol{
+    margin-left:20px;
+}
+h2{
+    margin-bottom:20px
+}
+ul{
+    list-style:none;
+}
+.token.selector{
+    color:black;
+}
+.token.function{
+    color:black;
+}
+.token.property{
+    color:black;
+}
+#code{
+    overflow:hidden;
+}
+.content{
+    padding:20px;
+    overflow:hidden;
+}
+.hp{
+    
+    overflow:auto;
+    padding:20px;
+}
